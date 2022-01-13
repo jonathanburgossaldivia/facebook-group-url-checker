@@ -8,8 +8,6 @@ facebook group url checker
 
 
 ## List format:
-
-## how to use?:
 ```console
 www.facebook.com/groups/543984009002111
 www.facebook.com/groups/1612814892328111
