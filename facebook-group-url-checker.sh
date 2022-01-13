@@ -3,8 +3,6 @@
 declare validUrl_list=()
 declare idUrl_list=()
 
-
-
 input=$1
 echo  >> "$input"
 
@@ -36,4 +34,3 @@ do
 done
 
 perl -pi -e 'chomp if eof' "$input"
-#sed -i 's/${/^$/d;}//g' "$input"
