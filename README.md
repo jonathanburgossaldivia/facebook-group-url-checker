@@ -18,7 +18,7 @@ Only ID of url list
 
 ```
 
-## List format:
+## Format for the file with list of groups:
 ```console
 www.facebook.com/groups/543984009002111
 www.facebook.com/groups/1612814892328111
