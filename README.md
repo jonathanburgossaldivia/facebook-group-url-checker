@@ -4,6 +4,7 @@ facebook group url checker
 ## how to use?:
 ```console
 ./facebook-group-url-checker.sh fb_groups.txt
+
 #output result
 www.facebook.com/groups/543984009002130 = Empleos ofrecidos, empleos buscados PUNTA ARENAS
 www.facebook.com/groups/1612814892328702 = VENTAS RAPIDAS PUQ
